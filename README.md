@@ -1,8 +1,6 @@
 # Linear-Regression-Assignment---Parcel-Delivery-Time-Prediction
 
 
-# Delivery Time Estimation using Machine Learning
-
 ## Project Overview
 This project focuses on estimating food delivery time using machine learning techniques. The dataset contains various features such as order details, item prices, delivery distance, and dasher availability. The goal is to build a predictive model that accurately estimates the time taken for an order to be delivered.
 
